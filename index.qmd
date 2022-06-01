@@ -1,25 +1,56 @@
 ---
-title: "Honeypotday"
-format: revealjs
+format: 
+    revealjs:
+        menu: false
+        transition: slide
+        slide-level: 1
+        section-divs: true
+        layout: center
+        theme: [night, custom.scss]
 ---
 
-## Quarto
+# Honeypotday {background-image="img/cake2.jpg"}
 
-Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+7 juin 2022
 
-## Bullets
+---
 
-When you click the **Render** button a document will be generated that includes:
+# Happy birthday ! {background-image="img/bday2.jpg" .center .myright}
 
--   Content authored with markdown
--   Output from executable code
+Pour célébrer tes 28 ans, voici ce que je te propose ...
 
-## Code
+---
 
-When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+# Du vélo !{background-image="img/velo.jpg" .center}
 
-```{r}
-1 + 1
-```
+Aimes-tu pédaler?
 
+---
+
+# De l'eau ! {background-image="img/paddle.jpg"}
+
+Aimes-tu nager? 
+
+---
+
+# Un restau ! {background-image="img/repas.jpg"}
+
+Manger manger manger?
+
+---
+
+# Un dodo ! {background-image="img/dodo.jpg"}
+
+Tu aimes dormir. (ce n'est pas une question.)
+
+---
+
+# Banco? {background-image="img/deal.avif"}
+
+Joyeux anniversaire mon amoureuse.
+Je t'aime 
+
+H, L & K
+
+-R
 
