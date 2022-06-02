@@ -67,7 +67,7 @@ R
 
 ---
 
-# Les infos {background-image="img/map.PNG" .middle}
+# Les infos {background-image="img/map.jpg" .middle}
 
 <br>
 <p class="bottom middle">
