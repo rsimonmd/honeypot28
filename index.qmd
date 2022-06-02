@@ -5,52 +5,78 @@ format:
         transition: slide
         slide-level: 1
         section-divs: true
-        layout: center
         theme: [night, custom.scss]
 ---
 
 # Honeypotday {background-image="img/cake2.jpg"}
 
-7 juin 2022
+<br>
+
+*7 juin 2022*
 
 ---
 
 # Happy birthday ! {background-image="img/bday2.jpg" .center .myright}
 
-Pour célébrer tes 28 ans, voici ce que je te propose ...
+<br>
+
+Pour célébrer tes 28 ans, au menu...
 
 ---
 
-# Du vélo !{background-image="img/velo.jpg" .center}
+# Du vélo !{background-image="img/velo4.jpg"}
 
-Aimes-tu pédaler?
-
----
-
-# De l'eau ! {background-image="img/paddle.jpg"}
-
-Aimes-tu nager? 
+Tu sais pédaler ...
 
 ---
 
-# Un restau ! {background-image="img/repas.jpg"}
+# De l'eau ! {background-image="img/eau.jpg" .text-right}
 
-Manger manger manger?
-
----
-
-# Un dodo ! {background-image="img/dodo.jpg"}
-
-Tu aimes dormir. (ce n'est pas une question.)
+Tu dois nager ... 
 
 ---
 
-# Banco? {background-image="img/deal.avif"}
+# Un restau ! {background-image="img/repas.jpg" .bottom}
+
+<br>
+
+Manger manger manger ...
+
+---
+
+# Un dodo ! {background-image="img/dodo.jpg" .text-right .bottom}
+
+... puis se reposer!
+
+---
+
+# Banco? {background-image="img/deal.avif" .center}
+
+<br>
 
 Joyeux anniversaire mon amoureuse.
 Je t'aime 
 
+<br>
+
 H, L & K
 
--R
+<br>
+
+R
+
+---
+
+# Les infos {background-image="img/map.png" .middle}
+
+<br>
+<p class="bottom middle">
+Toi + moi  
+Annecy  
+*1-3 juillet 2022*  
+Programme :  
+**La Table de Yoann Conte** - *1/07 20h*  
+**Palace de Menthon** - *2 nuits*   
+Autour du lac : vélo électrique, paddle, baignade ...
+</p>
 
