@@ -50,7 +50,7 @@ Manger manger manger ...
 
 ---
 
-# Banco? {background-image="img/deal.avif" .center}
+# Banco? {background-image="img/deal.jpg" .center}
 
 <br>
 
